@@ -1,7 +1,6 @@
-👋 Hey there, welcome to my profile 👋
+👋 Hey there, welcome to my profile👋
 
-✏️ I’m currently working as a UX designer.
-🌱 I’m currently learning how to use Github in support of my development team.
+✏️ I am a UX designer learning how to use Github in support of my development team.
 
 <!--
 **shelbyarnett/shelbyarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
